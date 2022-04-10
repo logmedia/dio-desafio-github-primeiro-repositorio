@@ -1,0 +1,27 @@
+//larissa@airam.arq.br
+//leonard@airam.arq.br
+//marcio@airam.arq.br
+//medicao@airam.arq.br
+//midia@airam.arq.br
+//moises@airam.arq.br
+//nei@airam.arq.br
+//paulo@airam.arq.br
+//renata@airam.arq.br
+//rosangela@airam.arq.br
+//site@airam.arq.br
+vitor@airam.arq.br
+web@airam.arq.br
+
+/usr/local/Cellar/imapsync/2.178/bin
+      
+      docker run gilleslamiral/imapsync imapsync \
+       --host1 mail69.redehost.com.br --user1 larissa@airam.arq.br --password1 Mail@1245 \
+       --host2 imap.hostinger.com --user2 larissa@airam.arq.br --password2 Mail@1245
+
+
+
+??ipojucan@airam.arq.br
+andreza@airam.arq.br
+augusto@airam.arq.br
+larissa@airam.arq.br
+leonard@airam.arq.br
